@@ -1,2 +1,6 @@
-
-wkkwk
+program tugas1;
+uses crt;
+begin
+clrscr;
+    write('Belajar Pascal untuk dasar pemograman');
+end.
