@@ -1,0 +1,17 @@
+program belajar;
+
+uses crt;
+var
+    jalan : string;
+    no : string;
+    kota : string;
+    kodepos : string;
+begin
+    clrscr;
+    write('Jalan : '); readln(jalan);
+    write('No : '); readln(no);
+    write('Kota : '); readln(kota);
+    write('Kode Pos : '); readln(kodepos);
+
+    writeln('Alamat: Jalan ',jalan,' No. ',no,' ',kota,' ',kodepos );
+end.
