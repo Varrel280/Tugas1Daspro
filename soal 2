@@ -1,0 +1,19 @@
+program belajar;
+uses crt;
+
+begin
+    clrscr;
+    
+    writeln('January');
+    writeln('Februari');
+    writeln('Maret');
+    writeln('April');
+    writeln('Mei');
+    writeln('Juni');
+    writeln('July');
+    writeln('Agustus');
+    writeln('September');
+    writeln('Oktober');
+    writeln('November');
+    writeln('Desember');
+end.    
